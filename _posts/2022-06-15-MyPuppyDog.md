@@ -3,7 +3,6 @@ title: "My Yeohyoon"
 author: SRWeaver
 tags: puppydog yeohyoon love poetry rondelekujo
 ---
-## My Yeohyoon
 She kneels her neck<br />
 like black swans under night.<br />
 The daffodils flip.<br />
