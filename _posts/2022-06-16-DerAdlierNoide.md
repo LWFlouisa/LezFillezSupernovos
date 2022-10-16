@@ -3,7 +3,6 @@ title: "Der Adler Noide"
 author: "SRWeaver"
 tags: earlyfraponic osazusacos folkmusic
 ---
-## Der Adler Noide
 Adler noir<br />
 Ils aile cette es tomber.<br />
 Adler noir<br />
