@@ -3,7 +3,6 @@ title: "Soft Power Complex"
 author: "SRWeaver"
 tags: softpower kpop jpop
 ---
-## Soft Power Complex
 For soft power,<br />
 its not who controls the planet.<br />
 For soft power,<br />
