@@ -1,0 +1,1406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<olive>
+    <version>220403</version>
+    <url>/home/sarah/Documents/MuseScore3/Scores/SoftPowerComplex/softpowercomplex.ove</url>
+    <project>
+        <uuid>{3d5f3420-41e3-492e-aaa9-746684650bdc}</uuid>
+        <nodes>
+            <node root="1" id="org.olivevideoeditor.Olive.folder">
+                <ptr>87426144</ptr>
+                <label>Root</label>
+                <color>-1</color>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="child_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="4">
+                        <element>
+                            <standard>
+                                <track></track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                        <element>
+                            <standard>
+                                <track></track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                        <element>
+                            <standard>
+                                <track></track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                        <element>
+                            <standard>
+                                <track></track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                    </subelements>
+                </input>
+                <links/>
+                <connections>
+                    <connection input="child_in" element="0">
+                        <output>140448987367968</output>
+                    </connection>
+                    <connection input="child_in" element="1">
+                        <output>140448987407120</output>
+                    </connection>
+                    <connection input="child_in" element="2">
+                        <output>103273280</output>
+                    </connection>
+                    <connection input="child_in" element="3">
+                        <output>140448987415760</output>
+                    </connection>
+                </connections>
+                <hints/>
+                <custom/>
+            </node>
+            <node cm="1" id="org.olivevideoeditor.Olive.colormanager">
+                <ptr>101802576</ptr>
+                <label></label>
+                <color>-1</color>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="config">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="default_input">
+                    <primary>
+                        <standard>
+                            <track>14</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="reference_space">
+                    <primary>
+                        <standard>
+                            <track>0</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections/>
+                <hints/>
+                <custom/>
+            </node>
+            <node settings="1" id="org.olivevideoeditor.Olive.projectsettings">
+                <ptr>101814464</ptr>
+                <label></label>
+                <color>-1</color>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="cache_setting">
+                    <primary>
+                        <standard>
+                            <track>0</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="cache_path">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections/>
+                <hints/>
+                <custom/>
+            </node>
+            <node id="org.olivevideoeditor.Olive.footage">
+                <ptr>140448987367968</ptr>
+                <label>FlagOFOsAzusacos.png</label>
+                <color>-1</color>
+                <input id="file_in">
+                    <primary>
+                        <standard>
+                            <track>/home/sarah/Documents/MuseScore3/Scores/SangaDeLanosTsunamos/FlagOFOsAzusacos.png</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="video_param_in">
+                    <primary>
+                        <standard>
+                            <track>
+                                <width>0</width>
+                                <height>0</height>
+                                <depth>0</depth>
+                                <timebase>0/1</timebase>
+                                <format>-1</format>
+                                <channelcount>0</channelcount>
+                                <pixelaspectratio>0/1</pixelaspectratio>
+                                <interlacing>0</interlacing>
+                                <divider>1</divider>
+                                <enabled>1</enabled>
+                                <x>0</x>
+                                <y>0</y>
+                                <streamindex>0</streamindex>
+                                <videotype>0</videotype>
+                                <framerate>0/1</framerate>
+                                <starttime>0</starttime>
+                                <duration>0</duration>
+                                <premultipliedalpha>0</premultipliedalpha>
+                                <colorspace></colorspace>
+                                <colorrange>0</colorrange>
+                            </track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="1">
+                        <element>
+                            <standard>
+                                <track>
+                                    <width>800</width>
+                                    <height>500</height>
+                                    <depth>0</depth>
+                                    <timebase>0/1</timebase>
+                                    <format>0</format>
+                                    <channelcount>4</channelcount>
+                                    <pixelaspectratio>1/1</pixelaspectratio>
+                                    <interlacing>0</interlacing>
+                                    <divider>1</divider>
+                                    <enabled>1</enabled>
+                                    <x>0</x>
+                                    <y>0</y>
+                                    <streamindex>0</streamindex>
+                                    <videotype>1</videotype>
+                                    <framerate>0/1</framerate>
+                                    <starttime>0</starttime>
+                                    <duration>0</duration>
+                                    <premultipliedalpha>1</premultipliedalpha>
+                                    <colorspace></colorspace>
+                                    <colorrange>0</colorrange>
+                                </track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                    </subelements>
+                </input>
+                <input id="audio_param_in">
+                    <primary>
+                        <standard>
+                            <track>
+                                <samplerate>0</samplerate>
+                                <channellayout>0</channellayout>
+                                <format>-1</format>
+                                <enabled>1</enabled>
+                                <streamindex>0</streamindex>
+                                <duration>0</duration>
+                                <timebase>0/1</timebase>
+                            </track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="subtitle_param_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections/>
+                <hints/>
+                <custom>
+                    <points>
+                        <workarea enabled="0" in="0/1" out="0/1"/>
+                        <markers/>
+                    </points>
+                    <timestamp>1664903238094</timestamp>
+                </custom>
+            </node>
+            <node id="org.olivevideoeditor.Olive.footage">
+                <ptr>140448987407120</ptr>
+                <label>Soft Power Complex.mp3</label>
+                <color>-1</color>
+                <input id="file_in">
+                    <primary>
+                        <standard>
+                            <track>/home/sarah/Documents/MuseScore3/Scores/SoftPowerComplex/Soft Power Complex.mp3</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="video_param_in">
+                    <primary>
+                        <standard>
+                            <track>
+                                <width>0</width>
+                                <height>0</height>
+                                <depth>0</depth>
+                                <timebase>0/1</timebase>
+                                <format>-1</format>
+                                <channelcount>0</channelcount>
+                                <pixelaspectratio>0/1</pixelaspectratio>
+                                <interlacing>0</interlacing>
+                                <divider>1</divider>
+                                <enabled>1</enabled>
+                                <x>0</x>
+                                <y>0</y>
+                                <streamindex>0</streamindex>
+                                <videotype>0</videotype>
+                                <framerate>0/1</framerate>
+                                <starttime>0</starttime>
+                                <duration>0</duration>
+                                <premultipliedalpha>0</premultipliedalpha>
+                                <colorspace></colorspace>
+                                <colorrange>0</colorrange>
+                            </track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="audio_param_in">
+                    <primary>
+                        <standard>
+                            <track>
+                                <samplerate>0</samplerate>
+                                <channellayout>0</channellayout>
+                                <format>-1</format>
+                                <enabled>1</enabled>
+                                <streamindex>0</streamindex>
+                                <duration>0</duration>
+                                <timebase>0/1</timebase>
+                            </track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="1">
+                        <element>
+                            <standard>
+                                <track>
+                                    <samplerate>44100</samplerate>
+                                    <channellayout>3</channellayout>
+                                    <format>4</format>
+                                    <enabled>1</enabled>
+                                    <streamindex>0</streamindex>
+                                    <duration>1325628360</duration>
+                                    <timebase>1/14112000</timebase>
+                                </track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                    </subelements>
+                </input>
+                <input id="subtitle_param_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections/>
+                <hints/>
+                <custom>
+                    <points>
+                        <workarea enabled="0" in="0/1" out="0/1"/>
+                        <markers/>
+                    </points>
+                    <timestamp>1665685070827</timestamp>
+                </custom>
+            </node>
+            <node id="org.olivevideoeditor.Olive.sequence">
+                <ptr>103273280</ptr>
+                <label>Sequence 1</label>
+                <color>-1</color>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="video_param_in">
+                    <primary>
+                        <standard>
+                            <track>
+                                <width>0</width>
+                                <height>0</height>
+                                <depth>0</depth>
+                                <timebase>0/1</timebase>
+                                <format>-1</format>
+                                <channelcount>0</channelcount>
+                                <pixelaspectratio>0/1</pixelaspectratio>
+                                <interlacing>0</interlacing>
+                                <divider>1</divider>
+                                <enabled>1</enabled>
+                                <x>0</x>
+                                <y>0</y>
+                                <streamindex>0</streamindex>
+                                <videotype>0</videotype>
+                                <framerate>0/1</framerate>
+                                <starttime>0</starttime>
+                                <duration>0</duration>
+                                <premultipliedalpha>0</premultipliedalpha>
+                                <colorspace></colorspace>
+                                <colorrange>0</colorrange>
+                            </track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="1">
+                        <element>
+                            <standard>
+                                <track>
+                                    <width>800</width>
+                                    <height>500</height>
+                                    <depth>1</depth>
+                                    <timebase>1001/30000</timebase>
+                                    <format>2</format>
+                                    <channelcount>4</channelcount>
+                                    <pixelaspectratio>1/1</pixelaspectratio>
+                                    <interlacing>0</interlacing>
+                                    <divider>1</divider>
+                                    <enabled>1</enabled>
+                                    <x>0</x>
+                                    <y>0</y>
+                                    <streamindex>0</streamindex>
+                                    <videotype>0</videotype>
+                                    <framerate>30000/1001</framerate>
+                                    <starttime>0</starttime>
+                                    <duration>0</duration>
+                                    <premultipliedalpha>0</premultipliedalpha>
+                                    <colorspace></colorspace>
+                                    <colorrange>0</colorrange>
+                                </track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                    </subelements>
+                </input>
+                <input id="audio_param_in">
+                    <primary>
+                        <standard>
+                            <track>
+                                <samplerate>0</samplerate>
+                                <channellayout>0</channellayout>
+                                <format>-1</format>
+                                <enabled>1</enabled>
+                                <streamindex>0</streamindex>
+                                <duration>0</duration>
+                                <timebase>0/1</timebase>
+                            </track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="1">
+                        <element>
+                            <standard>
+                                <track>
+                                    <samplerate>48000</samplerate>
+                                    <channellayout>3</channellayout>
+                                    <format>4</format>
+                                    <enabled>1</enabled>
+                                    <streamindex>0</streamindex>
+                                    <duration>0</duration>
+                                    <timebase>1/48000</timebase>
+                                </track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                    </subelements>
+                </input>
+                <input id="subtitle_param_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="tex_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="samples_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="track_in_0">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="1">
+                        <element>
+                            <standard>
+                                <track></track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                    </subelements>
+                </input>
+                <input id="track_in_1">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="1">
+                        <element>
+                            <standard>
+                                <track></track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                    </subelements>
+                </input>
+                <input id="track_in_2">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections>
+                    <connection input="samples_in" element="-1">
+                        <output>103135584</output>
+                    </connection>
+                    <connection input="tex_in" element="-1">
+                        <output>89624608</output>
+                    </connection>
+                    <connection input="track_in_0" element="0">
+                        <output>89624608</output>
+                    </connection>
+                    <connection input="track_in_1" element="0">
+                        <output>103135584</output>
+                    </connection>
+                </connections>
+                <hints/>
+                <custom>
+                    <points>
+                        <workarea enabled="0" in="0/1" out="0/1"/>
+                        <markers/>
+                    </points>
+                </custom>
+            </node>
+            <node id="org.olivevideoeditor.Olive.track">
+                <ptr>89624608</ptr>
+                <label></label>
+                <color>-1</color>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="block_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="1">
+                        <element>
+                            <standard>
+                                <track></track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                    </subelements>
+                </input>
+                <input id="muted_in">
+                    <primary>
+                        <standard>
+                            <track>false</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections>
+                    <connection input="block_in" element="0">
+                        <output>105725376</output>
+                    </connection>
+                </connections>
+                <hints/>
+                <custom>
+                    <height>3</height>
+                </custom>
+            </node>
+            <node id="org.olivevideoeditor.Olive.track">
+                <ptr>103135584</ptr>
+                <label></label>
+                <color>-1</color>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="block_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="2">
+                        <element>
+                            <standard>
+                                <track></track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                        <element>
+                            <standard>
+                                <track></track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                    </subelements>
+                </input>
+                <input id="muted_in">
+                    <primary>
+                        <standard>
+                            <track>false</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections>
+                    <connection input="block_in" element="0">
+                        <output>103628832</output>
+                    </connection>
+                    <connection input="block_in" element="1">
+                        <output>86078912</output>
+                    </connection>
+                </connections>
+                <hints/>
+                <custom>
+                    <height>3</height>
+                </custom>
+            </node>
+            <node id="org.olivevideoeditor.Olive.clip">
+                <ptr>86078912</ptr>
+                <label>Soft Power Complex.mp3</label>
+                <color>-1</color>
+                <input id="buffer_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="enabled_in">
+                    <primary>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="length_in">
+                    <primary>
+                        <standard>
+                            <track>563563/6000</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="media_in_in">
+                    <primary>
+                        <standard>
+                            <track>0/1</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="speed_in">
+                    <primary>
+                        <standard>
+                            <track>1</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="reverse_in">
+                    <primary>
+                        <standard>
+                            <track>false</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="maintain_audio_pitch_in">
+                    <primary>
+                        <standard>
+                            <track>false</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="loop_in">
+                    <primary>
+                        <standard>
+                            <track>0</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections>
+                    <connection input="buffer_in" element="-1">
+                        <output>103643680</output>
+                    </connection>
+                </connections>
+                <hints/>
+                <custom/>
+            </node>
+            <node id="org.olivevideoeditor.Olive.volume">
+                <ptr>103643680</ptr>
+                <label></label>
+                <color>-1</color>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="samples_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="volume_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>1</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections>
+                    <connection input="samples_in" element="-1">
+                        <output>140448987407120</output>
+                    </connection>
+                </connections>
+                <hints>
+                    <hint input="samples_in" element="-1">
+                        <types>
+                            <type>11</type>
+                        </types>
+                        <index>-1</index>
+                        <tag>a:0</tag>
+                    </hint>
+                </hints>
+                <custom/>
+            </node>
+            <node id="org.olivevideoeditor.Olive.gap">
+                <ptr>103628832</ptr>
+                <label></label>
+                <color>-1</color>
+                <input id="enabled_in">
+                    <primary>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="length_in">
+                    <primary>
+                        <standard>
+                            <track>1001/500</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections/>
+                <hints/>
+                <custom/>
+            </node>
+            <node id="org.olivevideoeditor.Olive.footage">
+                <ptr>140448987415760</ptr>
+                <label>panel009.jpg</label>
+                <color>-1</color>
+                <input id="file_in">
+                    <primary>
+                        <standard>
+                            <track>/media/sarah/DCBF-22A5/fullpanels/panel009.jpg</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="video_param_in">
+                    <primary>
+                        <standard>
+                            <track>
+                                <width>0</width>
+                                <height>0</height>
+                                <depth>0</depth>
+                                <timebase>0/1</timebase>
+                                <format>-1</format>
+                                <channelcount>0</channelcount>
+                                <pixelaspectratio>0/1</pixelaspectratio>
+                                <interlacing>0</interlacing>
+                                <divider>1</divider>
+                                <enabled>1</enabled>
+                                <x>0</x>
+                                <y>0</y>
+                                <streamindex>0</streamindex>
+                                <videotype>0</videotype>
+                                <framerate>0/1</framerate>
+                                <starttime>0</starttime>
+                                <duration>0</duration>
+                                <premultipliedalpha>0</premultipliedalpha>
+                                <colorspace></colorspace>
+                                <colorrange>0</colorrange>
+                            </track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="1">
+                        <element>
+                            <standard>
+                                <track>
+                                    <width>3509</width>
+                                    <height>2550</height>
+                                    <depth>0</depth>
+                                    <timebase>0/1</timebase>
+                                    <format>0</format>
+                                    <channelcount>1</channelcount>
+                                    <pixelaspectratio>1/1</pixelaspectratio>
+                                    <interlacing>0</interlacing>
+                                    <divider>1</divider>
+                                    <enabled>1</enabled>
+                                    <x>0</x>
+                                    <y>0</y>
+                                    <streamindex>0</streamindex>
+                                    <videotype>1</videotype>
+                                    <framerate>0/1</framerate>
+                                    <starttime>0</starttime>
+                                    <duration>0</duration>
+                                    <premultipliedalpha>1</premultipliedalpha>
+                                    <colorspace></colorspace>
+                                    <colorrange>0</colorrange>
+                                </track>
+                            </standard>
+                            <keyframes>
+                                <track/>
+                            </keyframes>
+                        </element>
+                    </subelements>
+                </input>
+                <input id="audio_param_in">
+                    <primary>
+                        <standard>
+                            <track>
+                                <samplerate>0</samplerate>
+                                <channellayout>0</channellayout>
+                                <format>-1</format>
+                                <enabled>1</enabled>
+                                <streamindex>0</streamindex>
+                                <duration>0</duration>
+                                <timebase>0/1</timebase>
+                            </track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="subtitle_param_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections/>
+                <hints/>
+                <custom>
+                    <points>
+                        <workarea enabled="0" in="0/1" out="0/1"/>
+                        <markers/>
+                    </points>
+                    <timestamp>1609257786000</timestamp>
+                </custom>
+            </node>
+            <node id="org.olivevideoeditor.Olive.clip">
+                <ptr>105725376</ptr>
+                <label>panel009.jpg</label>
+                <color>-1</color>
+                <input id="buffer_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="enabled_in">
+                    <primary>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="length_in">
+                    <primary>
+                        <standard>
+                            <track>1001/500</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="media_in_in">
+                    <primary>
+                        <standard>
+                            <track>0/1</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="speed_in">
+                    <primary>
+                        <standard>
+                            <track>1</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="reverse_in">
+                    <primary>
+                        <standard>
+                            <track>false</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="maintain_audio_pitch_in">
+                    <primary>
+                        <standard>
+                            <track>false</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="loop_in">
+                    <primary>
+                        <standard>
+                            <track>0</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections>
+                    <connection input="buffer_in" element="-1">
+                        <output>140449660588800</output>
+                    </connection>
+                </connections>
+                <hints/>
+                <custom/>
+            </node>
+            <node id="org.olivevideoeditor.Olive.transform">
+                <ptr>140449660588800</ptr>
+                <label></label>
+                <color>-1</color>
+                <input id="tex_in">
+                    <primary>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="enabled_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="pos_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>869</track>
+                            <track>757</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="rot_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>0</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="scale_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>1</track>
+                            <track>1</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="uniform_scale_in">
+                    <primary>
+                        <standard>
+                            <track>true</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="anchor_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>0</track>
+                            <track>0</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="parent_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track></track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="autoscale_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>0</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <input id="interpolation_in">
+                    <primary>
+                        <keyframing>0</keyframing>
+                        <standard>
+                            <track>2</track>
+                        </standard>
+                        <keyframes>
+                            <track/>
+                        </keyframes>
+                    </primary>
+                    <subelements count="0"/>
+                </input>
+                <links/>
+                <connections>
+                    <connection input="tex_in" element="-1">
+                        <output>140448987415760</output>
+                    </connection>
+                </connections>
+                <hints>
+                    <hint input="tex_in" element="-1">
+                        <types>
+                            <type>10</type>
+                        </types>
+                        <index>-1</index>
+                        <tag>v:0</tag>
+                    </hint>
+                </hints>
+                <custom/>
+            </node>
+        </nodes>
+        <positions>
+            <context ptr="103273280">
+                <node ptr="89624608">
+                    <x>-1</x>
+                    <y>-0.5</y>
+                    <expanded>0</expanded>
+                </node>
+                <node ptr="103135584">
+                    <x>-1</x>
+                    <y>0.5</y>
+                    <expanded>0</expanded>
+                </node>
+                <node ptr="103273280">
+                    <x>0</x>
+                    <y>0</y>
+                    <expanded>0</expanded>
+                </node>
+            </context>
+            <context ptr="86078912">
+                <node ptr="86078912">
+                    <x>0</x>
+                    <y>0</y>
+                    <expanded>0</expanded>
+                </node>
+                <node ptr="140448987407120">
+                    <x>-4</x>
+                    <y>0</y>
+                    <expanded>0</expanded>
+                </node>
+                <node ptr="103643680">
+                    <x>-3</x>
+                    <y>0</y>
+                    <expanded>0</expanded>
+                </node>
+            </context>
+            <context ptr="105725376">
+                <node ptr="140449660588800">
+                    <x>-3</x>
+                    <y>0</y>
+                    <expanded>0</expanded>
+                </node>
+                <node ptr="105725376">
+                    <x>0</x>
+                    <y>0</y>
+                    <expanded>0</expanded>
+                </node>
+                <node ptr="140448987415760">
+                    <x>-4</x>
+                    <y>0</y>
+                    <expanded>0</expanded>
+                </node>
+            </context>
+        </positions>
+        <properties/>
+        <layout>
+            <folders/>
+            <timeline>
+                <sequence>103273280</sequence>
+                <state>AAAA/wAAAAEAAAADAAAA8AAAAPAAAAAAAf////8BAAAAAgA=</state>
+            </timeline>
+            <state>AAAA/wAAAAD9AAAAAgAAAAIAAAeAAAAB3PwBAAAABPwAAAAAAAAHgAAAASoA/////AIAAAAC+wAAACYAUwBlAHEAdQBlAG4AYwBlAFYAaQBlAHcAZQByAFAAYQBuAGUAbAEAAAAUAAAAfAAAAHYA/////AAAAJYAAAFaAAAAqwEAABr6AAAAAQEAAAAD+wAAACQARgBvAG8AdABhAGcAZQBWAGkAZQB3AGUAcgBQAGEAbgBlAGwBAAAAAP////8AAADOAP////sAAAAUAFAAYQByAGEAbQBQAGEAbgBlAGwBAAAAAP////8AAACoAP////sAAAASAE4AbwBkAGUAUABhAG4AZQBsAQAAAAD/////AAAAUAD////7AAAAFABDAHUAcgB2AGUAUABhAG4AZQBsAgAAAoAAAAFaAAACgAAAAVv7AAAAFABTAGMAbwBwAGUAUABhAG4AZQBsAgAAAoAAAAFaAAACgAAAAVv7AAAAIgBQAGkAeABlAGwAUwBhAG0AcABsAGUAcgBQAGEAbgBlAGwCAAACgAAAAVoAAAKAAAABWwAAAAMAAAeAAAAB3PwBAAAABfsAAAAYAFAAcgBvAGoAZQBjAHQAUABhAG4AZQBsAQAAAAAAAAFiAAAAzgD////7AAAAEgBUAG8AbwBsAFAAYQBuAGUAbAEAAAFoAAAASQAAADoA////+wAAABoAVABpAG0AZQBsAGkAbgBlAFAAYQBuAGUAbAEAAAG3AAAFiQAAANwA////+wAAACAAVABhAHMAawBNAGEAbgBhAGcAZQByAFAAYQBuAGUAbAIAAAKAAAABWgAAAoAAAAFb+wAAABgAQQB1AGQAaQBvAE0AbwBuAGkAdABvAHIBAAAHRgAAADoAAAA6AP///wAAB4AAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA</state>
+        </layout>
+    </project>
+</olive>
