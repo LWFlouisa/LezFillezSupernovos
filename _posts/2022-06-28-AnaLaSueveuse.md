@@ -23,7 +23,7 @@ go and save the Koreans.<br />
 To that at only<br />
 sixteen, she went away and<br />
 and with a rifle<br />
-And save the world from greed.
+she saved the world from greed.
 
 And returned with only<br />
 A facial bleed.
