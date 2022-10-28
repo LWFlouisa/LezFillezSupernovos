@@ -15,7 +15,7 @@ Girl in white.
 Oh girl in white, with the braid<br />
 The soldiers came and took her away from me.<br />
 My bride and wife to be. My doll.<br />
-My necrophilic brade.
+My necrophilic braid.
 
 Don't worry about me,<br />
 go and save the Koreans.<br />
