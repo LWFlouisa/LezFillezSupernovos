@@ -1,7 +1,7 @@
 ---
 title: "Ana La Sueveuse, Saviour Of The Zainichi"
 author: SRWeaver
-tags: soldier wife necrophilicbride death memorial
+tags: soldier wife necrophilicbride death memorial piano flute harmonica tapdancer quartet
 ---
 Girl in white<br />
 with her French braids and flowers.<br />
