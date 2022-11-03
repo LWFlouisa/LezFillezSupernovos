@@ -20,7 +20,7 @@ Crush it into a fine pulp.<br />
 Potato bash,<br />
 let the butteryness rain.<br />
 And all the salt from its meat.<br />
-Let the farmers own their work.v
+Let the farmers own their work.<br />
 Potato bash.
 
 Lets tap dance to blood,<br />
